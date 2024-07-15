@@ -6,7 +6,7 @@
     "name": "Safdar Jamal",
     "url": "https://safdarjamal.github.io"
   },
-  "homepage": "https://github.com/KreyulTWSA/Quizzie/blob/main/package.json",
+  "homepage": "https://github.com/KreyulTWSA/Quizzie/tree/main/src/components/App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
